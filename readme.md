@@ -26,4 +26,4 @@ https://hub.docker.com/_/mysql
 https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html#jupyter-scipy-notebook
 
 After spining up containers data from non-commercial data set (https://grouplens.org/datasets/movielens/latest/ml-latest-small.zip) imported to test_db schema of database.
-All specified tasks are predifined in mounted notebook 1.ipynb which will be available after navigating by jupyter url.
+All solutions for provided tasks are in mounted notebook 1.ipynb, which will be available after navigating by jupyter url.
