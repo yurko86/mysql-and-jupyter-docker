@@ -6,7 +6,7 @@ To spin up the containers with database and jupyter notebook use:
 ```
 
 ## Running jupyter
-To run jupyter notebook copy url from output of
+To run jupyter notebook copy url which starts with http://127.0.0.1:8888/?token... from output of
 ``` 
 docker logs notebook
 ```
